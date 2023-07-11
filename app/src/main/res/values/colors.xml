@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="LightGreenishblue">#55efc4</color>
+    <color name="MintLeaf">#00b894</color>
+    <color name="FadedPoster">#81ecec</color>
+    <color name="Robinseggblue">#00cec9</color>
+    <color name="greendrainertail">#74b9ff</color>
+    <color name="electronblue">#0984e3</color>
+    <color name="Shymoment">#a29bfe</color>
+    <color name="Exodusfruit">#6c5ce7</color>
+    <color name="cityl">#dfe6e9</color>
+    <color name="american">#636e72</color>
+    <color name="dracula">#2d3436</color>
+
+</resources>
