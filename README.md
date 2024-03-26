@@ -43,12 +43,6 @@ To run the Tic Tac Toe app on your Android device, follow these steps:
 ![App Screenshot](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0020.jpg)
 
 
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
 ## Contact
 
 If you have any questions or need assistance with the app, you can contact the developer at:
