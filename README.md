@@ -48,11 +48,10 @@ To run the Tic Tac Toe app on your Android device, follow these steps:
 - Android Studio: The integrated development environment (IDE) used to build the Android app.
 - XML: Used for designing the app's layout and UI elements.
 
-## User Interface and Some Images
-  ![alt text](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0023.jpg)  
-  ![alt text](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0022.jpg)
-  ![alt text](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0021.jpg)
-  ![alt text](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0020.jpg) 
+## Screenshots 
+  ![alt ss](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0022.jpg)
+  ![alt ss](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0021.jpg)
+  ![alt ss](https://github.com/xOptimizer/Tic-Tac-Toe/blob/master/Images/IMG-20240326-WA0020.jpg) 
   
 
 ## Contributions
