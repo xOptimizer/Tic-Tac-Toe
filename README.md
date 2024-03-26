@@ -48,6 +48,9 @@ To run the Tic Tac Toe app on your Android device, follow these steps:
 - Android Studio: The integrated development environment (IDE) used to build the Android app.
 - XML: Used for designing the app's layout and UI elements.
 
+## User Interface and Some Images
+  
+
 ## Contributions
 
 Contributions to the Tic Tac Toe app are welcome! If you find any bugs or have suggestions for improvements, please feel free to submit a pull request.
